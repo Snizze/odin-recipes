@@ -1,4 +1,13 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: antiquewhite;
+}
+
 img {
     height: 300px;
     width: auto;
+}
+
+.home {
+    font-size: 12px;
 }
