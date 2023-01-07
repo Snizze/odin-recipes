@@ -11,3 +11,11 @@ img {
 .home {
     font-size: 12px;
 }
+
+.list {
+    background-color: aliceblue;
+}
+
+.description {
+    background-color: lightcoral;
+}
